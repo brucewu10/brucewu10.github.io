@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+[comment]: <> (* Ph.D in Version Control Theory, GitHub University, 2018 &#40;expected&#41;)
+
+[comment]: <> (* M.S. in Jekyll, GitHub University, 2014)
+* B.S. in China, SG University, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Fall 2021: Architect Engineer
+  * vivo Mobile Technology Co.
+  * Duties includes: design and develop Recommendation Platform, support LLM training 
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2018: Senior Engineer
+  * Fenqile Technology Co.
+  * Duties included: design and coding on Coupon System, Item Recommendation System
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[comment]: <> (  * Supervisor: Professor Hub)
+
+* Summer 2015: Senior Engineer
+  * IBM
+  * Duties included: coding and maintain DBS CreditCard System
+
+[comment]: <> (  * Supervisor: Professor Git)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding
+  * Java 
+  * Python
+  * C# 
+* DataBase
+  * Mysql
+  * Oracle
+* Project Management
 
 Publications
 ======
