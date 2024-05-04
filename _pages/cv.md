@@ -35,6 +35,18 @@ Work experience
   * Duties included: coding and maintain DBS CreditCard System
 
 [comment]: <> (  * Supervisor: Professor Git)
+
+
+Awards
+======
+* Spring 2021: Quarter Star Performer in AI Department(2021Q1)
+  * vivo Mobile Technology Co.
+
+* Winter 2011: Excellent Student Award
+  * Summer Work & Travel USA program
+
+* Winter 2010: Excellent Student in Computer Science College
+  * Shaoguan University
   
 Skills
 ======
@@ -53,18 +65,28 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+[comment]: <> (Talks)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.talks reversed %})
+
+[comment]: <> (    {% include archive-single-talk-cv.html  %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Teaching)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.teaching reversed %})
+
+[comment]: <> (    {% include archive-single-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[comment]: <> (Service and leadership)
+
+[comment]: <> (======)
+
+[comment]: <> (* Currently signed in to 43 different slack teams)
